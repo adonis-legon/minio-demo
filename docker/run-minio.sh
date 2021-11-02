@@ -1,0 +1,1 @@
+docker run --name minio -p 9000:9000 -v minio-data:/data minio/minio server /data

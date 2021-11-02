@@ -1,0 +1,5 @@
+storage:
+    server: https://s3.amazonaws.com
+    access-key: AKIASPH222LOAXEC2L3O
+    secret-key: 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
+    bucket: minio-demo
