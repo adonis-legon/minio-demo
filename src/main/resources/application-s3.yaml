@@ -1,5 +1,5 @@
 storage:
     server: https://s3.amazonaws.com
-    access-key: AKIASPH222LOAXEC2L3O
-    secret-key: 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
+    access-key: ${AWS_ACCESS_KEY}
+    secret-key: ${AWS_SECRET_KEY}
     bucket: minio-demo
